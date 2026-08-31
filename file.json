@@ -1,0 +1,21 @@
+[
+  {
+    "email": "arulraj4911@gmail.com",
+    "password": "12345678",
+    "validity": "valid"
+  },
+
+  {
+    "email": "arulraj11@gmail.com",
+    "password": "123678",
+    "validity": "invalid"
+  },
+
+  {
+    "email": "aruaj4911@gmail.com",
+    "password": "12378",
+    "validity": "invalid"
+  }
+
+
+]
